@@ -1,0 +1,11 @@
+D:\Projects\Notepad\Notepad.Core\bin\Debug\net8.0\Notepad.Core.deps.json
+D:\Projects\Notepad\Notepad.Core\bin\Debug\net8.0\Notepad.Core.dll
+D:\Projects\Notepad\Notepad.Core\bin\Debug\net8.0\Notepad.Core.pdb
+D:\Projects\Notepad\Notepad.Core\obj\Debug\net8.0\Notepad.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Notepad\Notepad.Core\obj\Debug\net8.0\Notepad.Core.AssemblyInfoInputs.cache
+D:\Projects\Notepad\Notepad.Core\obj\Debug\net8.0\Notepad.Core.AssemblyInfo.cs
+D:\Projects\Notepad\Notepad.Core\obj\Debug\net8.0\Notepad.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Notepad\Notepad.Core\obj\Debug\net8.0\Notepad.Core.dll
+D:\Projects\Notepad\Notepad.Core\obj\Debug\net8.0\refint\Notepad.Core.dll
+D:\Projects\Notepad\Notepad.Core\obj\Debug\net8.0\Notepad.Core.pdb
+D:\Projects\Notepad\Notepad.Core\obj\Debug\net8.0\ref\Notepad.Core.dll

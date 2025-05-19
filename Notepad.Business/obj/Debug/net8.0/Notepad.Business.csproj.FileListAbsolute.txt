@@ -1,0 +1,17 @@
+D:\Projects\Notepad\Notepad.Business\obj\Debug\net8.0\Notepad.Business.csproj.AssemblyReference.cache
+D:\Projects\Notepad\Notepad.Business\obj\Debug\net8.0\Notepad.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Notepad\Notepad.Business\obj\Debug\net8.0\Notepad.Business.AssemblyInfoInputs.cache
+D:\Projects\Notepad\Notepad.Business\obj\Debug\net8.0\Notepad.Business.AssemblyInfo.cs
+D:\Projects\Notepad\Notepad.Business\obj\Debug\net8.0\Notepad.Business.csproj.CoreCompileInputs.cache
+D:\Projects\Notepad\Notepad.Business\bin\Debug\net8.0\Notepad.Business.deps.json
+D:\Projects\Notepad\Notepad.Business\bin\Debug\net8.0\Notepad.Business.dll
+D:\Projects\Notepad\Notepad.Business\bin\Debug\net8.0\Notepad.Business.pdb
+D:\Projects\Notepad\Notepad.Business\bin\Debug\net8.0\Notepad.Core.dll
+D:\Projects\Notepad\Notepad.Business\bin\Debug\net8.0\Notepad.DAL.dll
+D:\Projects\Notepad\Notepad.Business\bin\Debug\net8.0\Notepad.DAL.pdb
+D:\Projects\Notepad\Notepad.Business\bin\Debug\net8.0\Notepad.Core.pdb
+D:\Projects\Notepad\Notepad.Business\obj\Debug\net8.0\Notepad..89F662A2.Up2Date
+D:\Projects\Notepad\Notepad.Business\obj\Debug\net8.0\Notepad.Business.dll
+D:\Projects\Notepad\Notepad.Business\obj\Debug\net8.0\refint\Notepad.Business.dll
+D:\Projects\Notepad\Notepad.Business\obj\Debug\net8.0\Notepad.Business.pdb
+D:\Projects\Notepad\Notepad.Business\obj\Debug\net8.0\ref\Notepad.Business.dll

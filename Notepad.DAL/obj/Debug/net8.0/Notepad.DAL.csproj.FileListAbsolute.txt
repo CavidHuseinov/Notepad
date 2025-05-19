@@ -1,0 +1,17 @@
+D:\Projects\Notepad\Notepad.DAL\bin\Debug\net8.0\Notepad.DAL.deps.json
+D:\Projects\Notepad\Notepad.DAL\bin\Debug\net8.0\Notepad.DAL.runtimeconfig.json
+D:\Projects\Notepad\Notepad.DAL\bin\Debug\net8.0\Notepad.DAL.dll
+D:\Projects\Notepad\Notepad.DAL\bin\Debug\net8.0\Notepad.DAL.pdb
+D:\Projects\Notepad\Notepad.DAL\bin\Debug\net8.0\Notepad.Core.dll
+D:\Projects\Notepad\Notepad.DAL\bin\Debug\net8.0\Notepad.Core.pdb
+D:\Projects\Notepad\Notepad.DAL\obj\Debug\net8.0\Notepad.DAL.csproj.AssemblyReference.cache
+D:\Projects\Notepad\Notepad.DAL\obj\Debug\net8.0\Notepad.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Notepad\Notepad.DAL\obj\Debug\net8.0\Notepad.DAL.AssemblyInfoInputs.cache
+D:\Projects\Notepad\Notepad.DAL\obj\Debug\net8.0\Notepad.DAL.AssemblyInfo.cs
+D:\Projects\Notepad\Notepad.DAL\obj\Debug\net8.0\Notepad.DAL.csproj.CoreCompileInputs.cache
+D:\Projects\Notepad\Notepad.DAL\obj\Debug\net8.0\Notepad..4918A8A4.Up2Date
+D:\Projects\Notepad\Notepad.DAL\obj\Debug\net8.0\Notepad.DAL.dll
+D:\Projects\Notepad\Notepad.DAL\obj\Debug\net8.0\refint\Notepad.DAL.dll
+D:\Projects\Notepad\Notepad.DAL\obj\Debug\net8.0\Notepad.DAL.pdb
+D:\Projects\Notepad\Notepad.DAL\obj\Debug\net8.0\Notepad.DAL.genruntimeconfig.cache
+D:\Projects\Notepad\Notepad.DAL\obj\Debug\net8.0\ref\Notepad.DAL.dll

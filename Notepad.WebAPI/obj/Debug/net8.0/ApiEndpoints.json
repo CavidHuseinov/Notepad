@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "Notepad.WebAPI.Controllers.NoteController",
+    "Method": "GetNoteByIdAsync",
+    "RelativePath": "api/Note/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Notepad.WebAPI.Controllers.NoteController",
+    "Method": "GetAllNoteAsync",
+    "RelativePath": "api/Note/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Notepad.WebAPI.Controllers.NoteController",
+    "Method": "CreateNoteAsync",
+    "RelativePath": "api/Note/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Notepad.Business.DTOs.Note.CreateNoteDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Notepad.WebAPI.Controllers.NoteController",
+    "Method": "DeleteNoteAsync",
+    "RelativePath": "api/Note/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Notepad.WebAPI.Controllers.NoteController",
+    "Method": "UpdateNoteAsync",
+    "RelativePath": "api/Note/update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Notepad.Business.DTOs.Note.UpdateNoteDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
