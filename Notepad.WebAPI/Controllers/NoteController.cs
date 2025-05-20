@@ -25,6 +25,12 @@ namespace Notepad.WebAPI.Controllers
             var note = await _service.GetNoteById(id);
             return Ok(note);
         }
+        [HttpGet("secure/{id}")]
+        public async Task<IActionResult> GetNoteByPassword(Guid id, string password)
+        {
+           var note = await _service.GetNoteWithPassword(id, password);
+            return Ok(note);
+        }
         [HttpPost("create")]
         public async Task<IActionResult> CreateNoteAsync(CreateNoteDto dto)
         {

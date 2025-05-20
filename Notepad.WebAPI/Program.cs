@@ -2,6 +2,10 @@
 using Notepad.Business;
 using Notepad.Core.Settings;
 using Notepad.DAL;
+using Notepad.Infrastructure;
+using Hangfire;
+using Notepad.Infrastructure.BackgroundJobs;
+using Notepad.WebAPI.HangfireSettings;
 
 namespace Notepad.WebAPI
 {
@@ -17,6 +21,7 @@ namespace Notepad.WebAPI
             DALServiceRegistration.AddDAL(builder.Services, builder.Configuration);
             BusinessServiceRegistration.AddBusiness(builder.Services);
             BusinessServiceRegistration.AddDIServices(builder.Services);
+            InfrastructureServiceRegistration.AddInfrastructure(builder.Services);
             builder.Services.Configure<Link>(builder.Configuration.GetSection("Link"));
             builder.Services.AddCors(opt =>
             {
@@ -28,6 +33,11 @@ namespace Notepad.WebAPI
 
                 });
             });
+            builder.Services.AddHangfireServer();
+            builder.Services.AddHangfire(config =>
+            {
+                config.UseSqlServerStorage(builder.Configuration.GetConnectionString("prod"));
+            });
 
 
 
@@ -36,8 +46,15 @@ namespace Notepad.WebAPI
             app.UseSwagger();
             app.UseSwaggerUI();
             app.UseHttpsRedirection();
+            app.UseHangfireDashboard("/hangfire/notepad/secret", new DashboardOptions
+            {
+                Authorization = new[] { new AllowAllUserDashboard() }
+            });
             app.UseAuthorization();
             app.MapControllers();
+            RecurringJob.AddOrUpdate<NoteJobs>(
+                "delete-old-notes",
+                job => job.DeleteOldNotesJob(), Cron.Daily);
             app.Run();
         }
     }

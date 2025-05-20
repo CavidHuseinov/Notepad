@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "D:\\Projects\\Notepad\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|d:\\projects\\notepad\\notepad.business\\dtos\\note\\createnotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|solutionrelative:notepad.business\\dtos\\note\\createnotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2A3B6F-AC71-427C-AFCF-AF1A7D335C0D}|Notepad.WebAPI\\Notepad.WebAPI.csproj|d:\\projects\\notepad\\notepad.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB2A3B6F-AC71-427C-AFCF-AF1A7D335C0D}|Notepad.WebAPI\\Notepad.WebAPI.csproj|solutionrelative:notepad.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2A3B6F-AC71-427C-AFCF-AF1A7D335C0D}|Notepad.WebAPI\\Notepad.WebAPI.csproj|d:\\projects\\notepad\\notepad.webapi\\middlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB2A3B6F-AC71-427C-AFCF-AF1A7D335C0D}|Notepad.WebAPI\\Notepad.WebAPI.csproj|solutionrelative:notepad.webapi\\middlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2A3B6F-AC71-427C-AFCF-AF1A7D335C0D}|Notepad.WebAPI\\Notepad.WebAPI.csproj|d:\\projects\\notepad\\notepad.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB2A3B6F-AC71-427C-AFCF-AF1A7D335C0D}|Notepad.WebAPI\\Notepad.WebAPI.csproj|solutionrelative:notepad.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2A3B6F-AC71-427C-AFCF-AF1A7D335C0D}|Notepad.WebAPI\\Notepad.WebAPI.csproj|d:\\projects\\notepad\\notepad.webapi\\hangfiresettings\\allowalluserdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB2A3B6F-AC71-427C-AFCF-AF1A7D335C0D}|Notepad.WebAPI\\Notepad.WebAPI.csproj|solutionrelative:notepad.webapi\\hangfiresettings\\allowalluserdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2A3B6F-AC71-427C-AFCF-AF1A7D335C0D}|Notepad.WebAPI\\Notepad.WebAPI.csproj|d:\\projects\\notepad\\notepad.webapi\\notepad.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BB2A3B6F-AC71-427C-AFCF-AF1A7D335C0D}|Notepad.WebAPI\\Notepad.WebAPI.csproj|solutionrelative:notepad.webapi\\notepad.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|d:\\projects\\notepad\\notepad.business\\services\\implementations\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|solutionrelative:notepad.business\\services\\implementations\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F7FCF8-D722-4129-8F86-E56E73F1E83F}|Notepad.Core\\Notepad.Core.csproj|d:\\projects\\notepad\\notepad.core\\settings\\link.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F7FCF8-D722-4129-8F86-E56E73F1E83F}|Notepad.Core\\Notepad.Core.csproj|solutionrelative:notepad.core\\settings\\link.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|d:\\projects\\notepad\\notepad.dal\\dalserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|solutionrelative:notepad.dal\\dalserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB2A3B6F-AC71-427C-AFCF-AF1A7D335C0D}|Notepad.WebAPI\\Notepad.WebAPI.csproj|d:\\projects\\notepad\\notepad.webapi\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,28 +47,68 @@
       "RelativeMoniker": "D:0:0:{BB2A3B6F-AC71-427C-AFCF-AF1A7D335C0D}|Notepad.WebAPI\\Notepad.WebAPI.csproj|solutionrelative:notepad.webapi\\controllers\\common\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB2A3B6F-AC71-427C-AFCF-AF1A7D335C0D}|Notepad.WebAPI\\Notepad.WebAPI.csproj|d:\\projects\\notepad\\notepad.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BB2A3B6F-AC71-427C-AFCF-AF1A7D335C0D}|Notepad.WebAPI\\Notepad.WebAPI.csproj|solutionrelative:notepad.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{74F7FCF8-D722-4129-8F86-E56E73F1E83F}|Notepad.Core\\Notepad.Core.csproj|d:\\projects\\notepad\\notepad.core\\entities\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F7FCF8-D722-4129-8F86-E56E73F1E83F}|Notepad.Core\\Notepad.Core.csproj|solutionrelative:notepad.core\\entities\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|d:\\projects\\notepad\\notepad.business\\notepad.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|solutionrelative:notepad.business\\notepad.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB2A3B6F-AC71-427C-AFCF-AF1A7D335C0D}|Notepad.WebAPI\\Notepad.WebAPI.csproj|d:\\projects\\notepad\\notepad.webapi\\notepad.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BB2A3B6F-AC71-427C-AFCF-AF1A7D335C0D}|Notepad.WebAPI\\Notepad.WebAPI.csproj|solutionrelative:notepad.webapi\\notepad.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB2A3B6F-AC71-427C-AFCF-AF1A7D335C0D}|Notepad.WebAPI\\Notepad.WebAPI.csproj|d:\\projects\\notepad\\notepad.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB2A3B6F-AC71-427C-AFCF-AF1A7D335C0D}|Notepad.WebAPI\\Notepad.WebAPI.csproj|solutionrelative:notepad.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|d:\\projects\\notepad\\notepad.business\\validators\\createnotedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|solutionrelative:notepad.business\\validators\\createnotedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|d:\\projects\\notepad\\notepad.business\\dtos\\note\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|solutionrelative:notepad.business\\dtos\\note\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74F7FCF8-D722-4129-8F86-E56E73F1E83F}|Notepad.Core\\Notepad.Core.csproj|d:\\projects\\notepad\\notepad.core\\settings\\link.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74F7FCF8-D722-4129-8F86-E56E73F1E83F}|Notepad.Core\\Notepad.Core.csproj|solutionrelative:notepad.core\\settings\\link.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|d:\\projects\\notepad\\notepad.business\\dtos\\note\\updatenotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|solutionrelative:notepad.business\\dtos\\note\\updatenotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE44D7B0-D14B-478B-B2C2-C0BA8319E227}|Notepad.Infrastructure\\Notepad.Infrastructure.csproj|d:\\projects\\notepad\\notepad.infrastructure\\backgroundjobs\\notejobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE44D7B0-D14B-478B-B2C2-C0BA8319E227}|Notepad.Infrastructure\\Notepad.Infrastructure.csproj|solutionrelative:notepad.infrastructure\\backgroundjobs\\notejobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|d:\\projects\\notepad\\notepad.business\\businessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|solutionrelative:notepad.business\\businessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE44D7B0-D14B-478B-B2C2-C0BA8319E227}|Notepad.Infrastructure\\Notepad.Infrastructure.csproj|d:\\projects\\notepad\\notepad.infrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE44D7B0-D14B-478B-B2C2-C0BA8319E227}|Notepad.Infrastructure\\Notepad.Infrastructure.csproj|solutionrelative:notepad.infrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|d:\\projects\\notepad\\notepad.dal\\migrations\\20250520091048_lakds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|solutionrelative:notepad.dal\\migrations\\20250520091048_lakds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE44D7B0-D14B-478B-B2C2-C0BA8319E227}|Notepad.Infrastructure\\Notepad.Infrastructure.csproj|d:\\projects\\notepad\\notepad.infrastructure\\notepad.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE44D7B0-D14B-478B-B2C2-C0BA8319E227}|Notepad.Infrastructure\\Notepad.Infrastructure.csproj|solutionrelative:notepad.infrastructure\\notepad.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|d:\\projects\\notepad\\notepad.dal\\notepad.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|solutionrelative:notepad.dal\\notepad.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|d:\\projects\\notepad\\notepad.dal\\repositories\\implementations\\noterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|solutionrelative:notepad.dal\\repositories\\implementations\\noterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|d:\\projects\\notepad\\notepad.business\\services\\interfaces\\inoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|solutionrelative:notepad.business\\services\\interfaces\\inoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|d:\\projects\\notepad\\notepad.dal\\repositories\\implementations\\generics\\queryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|solutionrelative:notepad.dal\\repositories\\implementations\\generics\\queryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|d:\\projects\\notepad\\notepad.business\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|solutionrelative:notepad.business\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|d:\\projects\\notepad\\notepad.business\\notepad.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|solutionrelative:notepad.business\\notepad.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F7FCF8-D722-4129-8F86-E56E73F1E83F}|Notepad.Core\\Notepad.Core.csproj|d:\\projects\\notepad\\notepad.core\\abstractions\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F7FCF8-D722-4129-8F86-E56E73F1E83F}|Notepad.Core\\Notepad.Core.csproj|solutionrelative:notepad.core\\abstractions\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74F7FCF8-D722-4129-8F86-E56E73F1E83F}|Notepad.Core\\Notepad.Core.csproj|d:\\projects\\notepad\\notepad.core\\notepad.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -47,60 +119,8 @@
       "RelativeMoniker": "D:0:0:{74F7FCF8-D722-4129-8F86-E56E73F1E83F}|Notepad.Core\\Notepad.Core.csproj|solutionrelative:notepad.core\\abstractions\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74F7FCF8-D722-4129-8F86-E56E73F1E83F}|Notepad.Core\\Notepad.Core.csproj|d:\\projects\\notepad\\notepad.core\\abstractions\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74F7FCF8-D722-4129-8F86-E56E73F1E83F}|Notepad.Core\\Notepad.Core.csproj|solutionrelative:notepad.core\\abstractions\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|d:\\projects\\notepad\\notepad.business\\businessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|solutionrelative:notepad.business\\businessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Notepad\\Notepad.DAL\\Migrations\\20250519144116_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Notepad.DAL\\Migrations\\20250519144116_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|d:\\projects\\notepad\\notepad.business\\dtos\\note\\updatenotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|solutionrelative:notepad.business\\dtos\\note\\updatenotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|d:\\projects\\notepad\\notepad.business\\dtos\\note\\createnotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|solutionrelative:notepad.business\\dtos\\note\\createnotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74F7FCF8-D722-4129-8F86-E56E73F1E83F}|Notepad.Core\\Notepad.Core.csproj|d:\\projects\\notepad\\notepad.core\\entities\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74F7FCF8-D722-4129-8F86-E56E73F1E83F}|Notepad.Core\\Notepad.Core.csproj|solutionrelative:notepad.core\\entities\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|d:\\projects\\notepad\\notepad.business\\services\\interfaces\\inoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|solutionrelative:notepad.business\\services\\interfaces\\inoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|d:\\projects\\notepad\\notepad.business\\validators\\createnotedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|solutionrelative:notepad.business\\validators\\createnotedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|d:\\projects\\notepad\\notepad.business\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49DE6380-5F9E-4A50-91A7-8FD5839F0D8E}|Notepad.Business\\Notepad.Business.csproj|solutionrelative:notepad.business\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|d:\\projects\\notepad\\notepad.dal\\configurations\\noteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|solutionrelative:notepad.dal\\configurations\\noteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|d:\\projects\\notepad\\notepad.dal\\notepad.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|solutionrelative:notepad.dal\\notepad.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB2A3B6F-AC71-427C-AFCF-AF1A7D335C0D}|Notepad.WebAPI\\Notepad.WebAPI.csproj|d:\\projects\\notepad\\notepad.webapi\\middlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB2A3B6F-AC71-427C-AFCF-AF1A7D335C0D}|Notepad.WebAPI\\Notepad.WebAPI.csproj|solutionrelative:notepad.webapi\\middlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|d:\\projects\\notepad\\notepad.dal\\dalserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|solutionrelative:notepad.dal\\dalserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|d:\\projects\\notepad\\notepad.dal\\repositories\\implementations\\noterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|solutionrelative:notepad.dal\\repositories\\implementations\\noterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|d:\\projects\\notepad\\notepad.dal\\repositories\\interfaces\\inoterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -113,10 +133,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|d:\\projects\\notepad\\notepad.dal\\unitofworks\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|solutionrelative:notepad.dal\\unitofworks\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|d:\\projects\\notepad\\notepad.dal\\repositories\\implementations\\generics\\queryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|solutionrelative:notepad.dal\\repositories\\implementations\\generics\\queryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|d:\\projects\\notepad\\notepad.dal\\repositories\\implementations\\generics\\commandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -133,6 +149,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|d:\\projects\\notepad\\notepad.dal\\context\\notepaddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|solutionrelative:notepad.dal\\context\\notepaddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|d:\\projects\\notepad\\notepad.dal\\migrations\\20250519144116_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|solutionrelative:notepad.dal\\migrations\\20250519144116_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|d:\\projects\\notepad\\notepad.dal\\migrations\\20250519160638_adass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|solutionrelative:notepad.dal\\migrations\\20250519160638_adass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|d:\\projects\\notepad\\notepad.dal\\migrations\\20250520092712_lakdss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A4513F-F047-4B4D-BEA5-767B10F073A5}|Notepad.DAL\\Notepad.DAL.csproj|solutionrelative:notepad.dal\\migrations\\20250520092712_lakdss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -142,45 +170,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NoteService.cs",
-              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.Business\\Services\\Implementations\\NoteService.cs",
-              "RelativeDocumentMoniker": "Notepad.Business\\Services\\Implementations\\NoteService.cs",
-              "ToolTip": "D:\\Projects\\Notepad\\Notepad.Business\\Services\\Implementations\\NoteService.cs",
-              "RelativeToolTip": "Notepad.Business\\Services\\Implementations\\NoteService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T13:59:13.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApiController.cs",
-              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.WebAPI\\Controllers\\Common\\ApiController.cs",
-              "RelativeDocumentMoniker": "Notepad.WebAPI\\Controllers\\Common\\ApiController.cs",
-              "ToolTip": "D:\\Projects\\Notepad\\Notepad.WebAPI\\Controllers\\Common\\ApiController.cs",
-              "RelativeToolTip": "Notepad.WebAPI\\Controllers\\Common\\ApiController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T14:32:49.588Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Notepad.Business",
-              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.Business\\Notepad.Business.csproj",
-              "RelativeDocumentMoniker": "Notepad.Business\\Notepad.Business.csproj",
-              "ToolTip": "D:\\Projects\\Notepad\\Notepad.Business\\Notepad.Business.csproj",
-              "RelativeToolTip": "Notepad.Business\\Notepad.Business.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-19T13:56:54.987Z",
+              "Title": "AllowAllUserDashboard.cs",
+              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.WebAPI\\HangfireSettings\\AllowAllUserDashboard.cs",
+              "RelativeDocumentMoniker": "Notepad.WebAPI\\HangfireSettings\\AllowAllUserDashboard.cs",
+              "ToolTip": "D:\\Projects\\Notepad\\Notepad.WebAPI\\HangfireSettings\\AllowAllUserDashboard.cs",
+              "RelativeToolTip": "Notepad.WebAPI\\HangfireSettings\\AllowAllUserDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T10:00:32.515Z",
               "EditorCaption": ""
             },
             {
@@ -191,7 +197,7 @@
               "RelativeDocumentMoniker": "Notepad.WebAPI\\appsettings.json",
               "ToolTip": "D:\\Projects\\Notepad\\Notepad.WebAPI\\appsettings.json",
               "RelativeToolTip": "Notepad.WebAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-19T13:19:54.214Z",
               "EditorCaption": ""
@@ -199,227 +205,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "NoteController.cs",
-              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.WebAPI\\Controllers\\NoteController.cs",
-              "RelativeDocumentMoniker": "Notepad.WebAPI\\Controllers\\NoteController.cs",
-              "ToolTip": "D:\\Projects\\Notepad\\Notepad.WebAPI\\Controllers\\NoteController.cs",
-              "RelativeToolTip": "Notepad.WebAPI\\Controllers\\NoteController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T14:29:56.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Notepad.WebAPI",
-              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.WebAPI\\Notepad.WebAPI.csproj",
-              "RelativeDocumentMoniker": "Notepad.WebAPI\\Notepad.WebAPI.csproj",
-              "ToolTip": "D:\\Projects\\Notepad\\Notepad.WebAPI\\Notepad.WebAPI.csproj",
-              "RelativeToolTip": "Notepad.WebAPI\\Notepad.WebAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-19T15:10:45.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "Notepad.WebAPI\\Program.cs",
               "ToolTip": "D:\\Projects\\Notepad\\Notepad.WebAPI\\Program.cs",
               "RelativeToolTip": "Notepad.WebAPI\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA5wBAAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAswCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T13:19:56.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Link.cs",
-              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.Core\\Settings\\Link.cs",
-              "RelativeDocumentMoniker": "Notepad.Core\\Settings\\Link.cs",
-              "ToolTip": "D:\\Projects\\Notepad\\Notepad.Core\\Settings\\Link.cs",
-              "RelativeToolTip": "Notepad.Core\\Settings\\Link.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T14:55:43.184Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Notepad.Core",
-              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.Core\\Notepad.Core.csproj",
-              "RelativeDocumentMoniker": "Notepad.Core\\Notepad.Core.csproj",
-              "ToolTip": "D:\\Projects\\Notepad\\Notepad.Core\\Notepad.Core.csproj",
-              "RelativeToolTip": "Notepad.Core\\Notepad.Core.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-19T13:37:08.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BaseDto.cs",
-              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.Core\\Abstractions\\BaseDto.cs",
-              "RelativeDocumentMoniker": "Notepad.Core\\Abstractions\\BaseDto.cs",
-              "ToolTip": "D:\\Projects\\Notepad\\Notepad.Core\\Abstractions\\BaseDto.cs",
-              "RelativeToolTip": "Notepad.Core\\Abstractions\\BaseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T14:31:03.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.Core\\Abstractions\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Notepad.Core\\Abstractions\\BaseEntity.cs",
-              "ToolTip": "D:\\Projects\\Notepad\\Notepad.Core\\Abstractions\\BaseEntity.cs",
-              "RelativeToolTip": "Notepad.Core\\Abstractions\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T13:37:29.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "NoteDto.cs",
-              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.Business\\DTOs\\Note\\NoteDto.cs",
-              "RelativeDocumentMoniker": "Notepad.Business\\DTOs\\Note\\NoteDto.cs",
-              "ToolTip": "D:\\Projects\\Notepad\\Notepad.Business\\DTOs\\Note\\NoteDto.cs",
-              "RelativeToolTip": "Notepad.Business\\DTOs\\Note\\NoteDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T14:04:55.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BusinessServiceRegistration.cs",
-              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.Business\\BusinessServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Notepad.Business\\BusinessServiceRegistration.cs",
-              "ToolTip": "D:\\Projects\\Notepad\\Notepad.Business\\BusinessServiceRegistration.cs",
-              "RelativeToolTip": "Notepad.Business\\BusinessServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T13:59:20.271Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "20250519144116_FirstMigration.cs",
-              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.DAL\\Migrations\\20250519144116_FirstMigration.cs",
-              "RelativeDocumentMoniker": "Notepad.DAL\\Migrations\\20250519144116_FirstMigration.cs",
-              "ToolTip": "D:\\Projects\\Notepad\\Notepad.DAL\\Migrations\\20250519144116_FirstMigration.cs",
-              "RelativeToolTip": "Notepad.DAL\\Migrations\\20250519144116_FirstMigration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T14:41:16.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UpdateNoteDto.cs",
-              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.Business\\DTOs\\Note\\UpdateNoteDto.cs",
-              "RelativeDocumentMoniker": "Notepad.Business\\DTOs\\Note\\UpdateNoteDto.cs",
-              "ToolTip": "D:\\Projects\\Notepad\\Notepad.Business\\DTOs\\Note\\UpdateNoteDto.cs",
-              "RelativeToolTip": "Notepad.Business\\DTOs\\Note\\UpdateNoteDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T14:05:01.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "INoteService.cs",
-              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.Business\\Services\\Interfaces\\INoteService.cs",
-              "RelativeDocumentMoniker": "Notepad.Business\\Services\\Interfaces\\INoteService.cs",
-              "ToolTip": "D:\\Projects\\Notepad\\Notepad.Business\\Services\\Interfaces\\INoteService.cs",
-              "RelativeToolTip": "Notepad.Business\\Services\\Interfaces\\INoteService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T13:59:08.738Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 0,
               "Title": "CreateNoteDto.cs",
               "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.Business\\DTOs\\Note\\CreateNoteDto.cs",
               "RelativeDocumentMoniker": "Notepad.Business\\DTOs\\Note\\CreateNoteDto.cs",
               "ToolTip": "D:\\Projects\\Notepad\\Notepad.Business\\DTOs\\Note\\CreateNoteDto.cs",
               "RelativeToolTip": "Notepad.Business\\DTOs\\Note\\CreateNoteDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T14:04:51.186Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Note.cs",
-              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.Core\\Entities\\Note.cs",
-              "RelativeDocumentMoniker": "Notepad.Core\\Entities\\Note.cs",
-              "ToolTip": "D:\\Projects\\Notepad\\Notepad.Core\\Entities\\Note.cs",
-              "RelativeToolTip": "Notepad.Core\\Entities\\Note.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T13:37:20.286Z",
+              "DocumentIndex": 5,
+              "Title": "Notepad.WebAPI.csproj",
+              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.WebAPI\\Notepad.WebAPI.csproj",
+              "RelativeDocumentMoniker": "Notepad.WebAPI\\Notepad.WebAPI.csproj",
+              "ToolTip": "D:\\Projects\\Notepad\\Notepad.WebAPI\\Notepad.WebAPI.csproj",
+              "RelativeToolTip": "Notepad.WebAPI\\Notepad.WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-19T15:10:45.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CreateNoteDtoValidator.cs",
-              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.Business\\Validators\\CreateNoteDtoValidator.cs",
-              "RelativeDocumentMoniker": "Notepad.Business\\Validators\\CreateNoteDtoValidator.cs",
-              "ToolTip": "D:\\Projects\\Notepad\\Notepad.Business\\Validators\\CreateNoteDtoValidator.cs",
-              "RelativeToolTip": "Notepad.Business\\Validators\\CreateNoteDtoValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T14:10:49.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.Business\\Mapper\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Notepad.Business\\Mapper\\MappingProfile.cs",
-              "ToolTip": "D:\\Projects\\Notepad\\Notepad.Business\\Mapper\\MappingProfile.cs",
-              "RelativeToolTip": "Notepad.Business\\Mapper\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T14:09:00.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "NoteConfiguration.cs",
-              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.DAL\\Configurations\\NoteConfiguration.cs",
-              "RelativeDocumentMoniker": "Notepad.DAL\\Configurations\\NoteConfiguration.cs",
-              "ToolTip": "D:\\Projects\\Notepad\\Notepad.DAL\\Configurations\\NoteConfiguration.cs",
-              "RelativeToolTip": "Notepad.DAL\\Configurations\\NoteConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T13:41:20.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 2,
               "Title": "GlobalExceptionMiddleware.cs",
               "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.WebAPI\\Middlewares\\GlobalExceptionMiddleware.cs",
               "RelativeDocumentMoniker": "Notepad.WebAPI\\Middlewares\\GlobalExceptionMiddleware.cs",
@@ -432,7 +256,215 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 8,
+              "Title": "DALServiceRegistration.cs",
+              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.DAL\\DALServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Notepad.DAL\\DALServiceRegistration.cs",
+              "ToolTip": "D:\\Projects\\Notepad\\Notepad.DAL\\DALServiceRegistration.cs",
+              "RelativeToolTip": "Notepad.DAL\\DALServiceRegistration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:44:54.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NoteController.cs",
+              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.WebAPI\\Controllers\\NoteController.cs",
+              "RelativeDocumentMoniker": "Notepad.WebAPI\\Controllers\\NoteController.cs",
+              "ToolTip": "D:\\Projects\\Notepad\\Notepad.WebAPI\\Controllers\\NoteController.cs",
+              "RelativeToolTip": "Notepad.WebAPI\\Controllers\\NoteController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:29:56.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.WebAPI\\Controllers\\Common\\ApiController.cs",
+              "RelativeDocumentMoniker": "Notepad.WebAPI\\Controllers\\Common\\ApiController.cs",
+              "ToolTip": "D:\\Projects\\Notepad\\Notepad.WebAPI\\Controllers\\Common\\ApiController.cs",
+              "RelativeToolTip": "Notepad.WebAPI\\Controllers\\Common\\ApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:32:49.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Link.cs",
+              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.Core\\Settings\\Link.cs",
+              "RelativeDocumentMoniker": "Notepad.Core\\Settings\\Link.cs",
+              "ToolTip": "D:\\Projects\\Notepad\\Notepad.Core\\Settings\\Link.cs",
+              "RelativeToolTip": "Notepad.Core\\Settings\\Link.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:55:43.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NoteService.cs",
+              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.Business\\Services\\Implementations\\NoteService.cs",
+              "RelativeDocumentMoniker": "Notepad.Business\\Services\\Implementations\\NoteService.cs",
+              "ToolTip": "D:\\Projects\\Notepad\\Notepad.Business\\Services\\Implementations\\NoteService.cs",
+              "RelativeToolTip": "Notepad.Business\\Services\\Implementations\\NoteService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:59:13.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Note.cs",
+              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.Core\\Entities\\Note.cs",
+              "RelativeDocumentMoniker": "Notepad.Core\\Entities\\Note.cs",
+              "ToolTip": "D:\\Projects\\Notepad\\Notepad.Core\\Entities\\Note.cs",
+              "RelativeToolTip": "Notepad.Core\\Entities\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:37:20.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateNoteDtoValidator.cs",
+              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.Business\\Validators\\CreateNoteDtoValidator.cs",
+              "RelativeDocumentMoniker": "Notepad.Business\\Validators\\CreateNoteDtoValidator.cs",
+              "ToolTip": "D:\\Projects\\Notepad\\Notepad.Business\\Validators\\CreateNoteDtoValidator.cs",
+              "RelativeToolTip": "Notepad.Business\\Validators\\CreateNoteDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:10:49.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NoteDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.Business\\DTOs\\Note\\NoteDto.cs",
+              "RelativeDocumentMoniker": "Notepad.Business\\DTOs\\Note\\NoteDto.cs",
+              "ToolTip": "D:\\Projects\\Notepad\\Notepad.Business\\DTOs\\Note\\NoteDto.cs",
+              "RelativeToolTip": "Notepad.Business\\DTOs\\Note\\NoteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:04:55.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateNoteDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.Business\\DTOs\\Note\\UpdateNoteDto.cs",
+              "RelativeDocumentMoniker": "Notepad.Business\\DTOs\\Note\\UpdateNoteDto.cs",
+              "ToolTip": "D:\\Projects\\Notepad\\Notepad.Business\\DTOs\\Note\\UpdateNoteDto.cs",
+              "RelativeToolTip": "Notepad.Business\\DTOs\\Note\\UpdateNoteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:05:01.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250520092712_lakdss.cs",
+              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.DAL\\Migrations\\20250520092712_lakdss.cs",
+              "RelativeDocumentMoniker": "Notepad.DAL\\Migrations\\20250520092712_lakdss.cs",
+              "ToolTip": "D:\\Projects\\Notepad\\Notepad.DAL\\Migrations\\20250520092712_lakdss.cs",
+              "RelativeToolTip": "Notepad.DAL\\Migrations\\20250520092712_lakdss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:27:12.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NoteJobs.cs",
+              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.Infrastructure\\BackgroundJobs\\NoteJobs.cs",
+              "RelativeDocumentMoniker": "Notepad.Infrastructure\\BackgroundJobs\\NoteJobs.cs",
+              "ToolTip": "D:\\Projects\\Notepad\\Notepad.Infrastructure\\BackgroundJobs\\NoteJobs.cs",
+              "RelativeToolTip": "Notepad.Infrastructure\\BackgroundJobs\\NoteJobs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:37:07.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BusinessServiceRegistration.cs",
+              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.Business\\BusinessServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Notepad.Business\\BusinessServiceRegistration.cs",
+              "ToolTip": "D:\\Projects\\Notepad\\Notepad.Business\\BusinessServiceRegistration.cs",
+              "RelativeToolTip": "Notepad.Business\\BusinessServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:59:20.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InfrastructureServiceRegistration.cs",
+              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Notepad.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "ToolTip": "D:\\Projects\\Notepad\\Notepad.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "RelativeToolTip": "Notepad.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:47:38.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250520091048_lakds.cs",
+              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.DAL\\Migrations\\20250520091048_lakds.cs",
+              "RelativeDocumentMoniker": "Notepad.DAL\\Migrations\\20250520091048_lakds.cs",
+              "ToolTip": "D:\\Projects\\Notepad\\Notepad.DAL\\Migrations\\20250520091048_lakds.cs",
+              "RelativeToolTip": "Notepad.DAL\\Migrations\\20250520091048_lakds.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:10:49.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Notepad.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.Infrastructure\\Notepad.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Notepad.Infrastructure\\Notepad.Infrastructure.csproj",
+              "ToolTip": "D:\\Projects\\Notepad\\Notepad.Infrastructure\\Notepad.Infrastructure.csproj",
+              "RelativeToolTip": "Notepad.Infrastructure\\Notepad.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-19T16:27:04.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Notepad.DAL.csproj",
+              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.DAL\\Notepad.DAL.csproj",
+              "RelativeDocumentMoniker": "Notepad.DAL\\Notepad.DAL.csproj",
+              "ToolTip": "D:\\Projects\\Notepad\\Notepad.DAL\\Notepad.DAL.csproj",
+              "RelativeToolTip": "Notepad.DAL\\Notepad.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-19T13:40:11.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "NoteRepo.cs",
               "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.DAL\\Repositories\\Implementations\\NoteRepo.cs",
               "RelativeDocumentMoniker": "Notepad.DAL\\Repositories\\Implementations\\NoteRepo.cs",
@@ -445,7 +477,137 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "INoteService.cs",
+              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.Business\\Services\\Interfaces\\INoteService.cs",
+              "RelativeDocumentMoniker": "Notepad.Business\\Services\\Interfaces\\INoteService.cs",
+              "ToolTip": "D:\\Projects\\Notepad\\Notepad.Business\\Services\\Interfaces\\INoteService.cs",
+              "RelativeToolTip": "Notepad.Business\\Services\\Interfaces\\INoteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:59:08.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "QueryRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.DAL\\Repositories\\Implementations\\Generics\\QueryRepository.cs",
+              "RelativeDocumentMoniker": "Notepad.DAL\\Repositories\\Implementations\\Generics\\QueryRepository.cs",
+              "ToolTip": "D:\\Projects\\Notepad\\Notepad.DAL\\Repositories\\Implementations\\Generics\\QueryRepository.cs",
+              "RelativeToolTip": "Notepad.DAL\\Repositories\\Implementations\\Generics\\QueryRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:47:58.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.Business\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Notepad.Business\\Mapper\\MappingProfile.cs",
+              "ToolTip": "D:\\Projects\\Notepad\\Notepad.Business\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "Notepad.Business\\Mapper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:09:00.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20250519160638_adass.cs",
+              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.DAL\\Migrations\\20250519160638_adass.cs",
+              "RelativeDocumentMoniker": "Notepad.DAL\\Migrations\\20250519160638_adass.cs",
+              "ToolTip": "D:\\Projects\\Notepad\\Notepad.DAL\\Migrations\\20250519160638_adass.cs",
+              "RelativeToolTip": "Notepad.DAL\\Migrations\\20250519160638_adass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:06:39.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.Core\\Abstractions\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Notepad.Core\\Abstractions\\BaseEntity.cs",
+              "ToolTip": "D:\\Projects\\Notepad\\Notepad.Core\\Abstractions\\BaseEntity.cs",
+              "RelativeToolTip": "Notepad.Core\\Abstractions\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:37:29.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 25,
+              "Title": "Notepad.Business.csproj",
+              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.Business\\Notepad.Business.csproj",
+              "RelativeDocumentMoniker": "Notepad.Business\\Notepad.Business.csproj",
+              "ToolTip": "D:\\Projects\\Notepad\\Notepad.Business\\Notepad.Business.csproj",
+              "RelativeToolTip": "Notepad.Business\\Notepad.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-19T13:56:54.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Notepad.Core.csproj",
+              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.Core\\Notepad.Core.csproj",
+              "RelativeDocumentMoniker": "Notepad.Core\\Notepad.Core.csproj",
+              "ToolTip": "D:\\Projects\\Notepad\\Notepad.Core\\Notepad.Core.csproj",
+              "RelativeToolTip": "Notepad.Core\\Notepad.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-19T13:37:08.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BaseDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.Core\\Abstractions\\BaseDto.cs",
+              "RelativeDocumentMoniker": "Notepad.Core\\Abstractions\\BaseDto.cs",
+              "ToolTip": "D:\\Projects\\Notepad\\Notepad.Core\\Abstractions\\BaseDto.cs",
+              "RelativeToolTip": "Notepad.Core\\Abstractions\\BaseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:31:03.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250519144116_FirstMigration.cs",
+              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.DAL\\Migrations\\20250519144116_FirstMigration.cs",
+              "RelativeDocumentMoniker": "Notepad.DAL\\Migrations\\20250519144116_FirstMigration.cs",
+              "ToolTip": "D:\\Projects\\Notepad\\Notepad.DAL\\Migrations\\20250519144116_FirstMigration.cs",
+              "RelativeToolTip": "Notepad.DAL\\Migrations\\20250519144116_FirstMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:41:16.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "NoteConfiguration.cs",
+              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.DAL\\Configurations\\NoteConfiguration.cs",
+              "RelativeDocumentMoniker": "Notepad.DAL\\Configurations\\NoteConfiguration.cs",
+              "ToolTip": "D:\\Projects\\Notepad\\Notepad.DAL\\Configurations\\NoteConfiguration.cs",
+              "RelativeToolTip": "Notepad.DAL\\Configurations\\NoteConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:41:20.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "INoteRepo.cs",
               "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.DAL\\Repositories\\Interfaces\\INoteRepo.cs",
               "RelativeDocumentMoniker": "Notepad.DAL\\Repositories\\Interfaces\\INoteRepo.cs",
@@ -458,7 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.DAL\\UnitOfWorks\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "Notepad.DAL\\UnitOfWorks\\UnitOfWork.cs",
@@ -471,20 +633,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Notepad.DAL",
-              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.DAL\\Notepad.DAL.csproj",
-              "RelativeDocumentMoniker": "Notepad.DAL\\Notepad.DAL.csproj",
-              "ToolTip": "D:\\Projects\\Notepad\\Notepad.DAL\\Notepad.DAL.csproj",
-              "RelativeToolTip": "Notepad.DAL\\Notepad.DAL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-19T13:40:11.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.DAL\\UnitOfWorks\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "Notepad.DAL\\UnitOfWorks\\IUnitOfWork.cs",
@@ -497,7 +646,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "CommandRepository.cs",
               "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.DAL\\Repositories\\Implementations\\Generics\\CommandRepository.cs",
               "RelativeDocumentMoniker": "Notepad.DAL\\Repositories\\Implementations\\Generics\\CommandRepository.cs",
@@ -510,20 +659,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "DALServiceRegistration.cs",
-              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.DAL\\DALServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Notepad.DAL\\DALServiceRegistration.cs",
-              "ToolTip": "D:\\Projects\\Notepad\\Notepad.DAL\\DALServiceRegistration.cs",
-              "RelativeToolTip": "Notepad.DAL\\DALServiceRegistration.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCMAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T13:44:54.719Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "IQueryRepository.cs",
               "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.DAL\\Repositories\\Interfaces\\Generics\\IQueryRepository.cs",
               "RelativeDocumentMoniker": "Notepad.DAL\\Repositories\\Interfaces\\Generics\\IQueryRepository.cs",
@@ -536,20 +672,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "QueryRepository.cs",
-              "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.DAL\\Repositories\\Implementations\\Generics\\QueryRepository.cs",
-              "RelativeDocumentMoniker": "Notepad.DAL\\Repositories\\Implementations\\Generics\\QueryRepository.cs",
-              "ToolTip": "D:\\Projects\\Notepad\\Notepad.DAL\\Repositories\\Implementations\\Generics\\QueryRepository.cs",
-              "RelativeToolTip": "Notepad.DAL\\Repositories\\Implementations\\Generics\\QueryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T13:47:58.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "ICommandRepository.cs",
               "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.DAL\\Repositories\\Interfaces\\Generics\\ICommandRepository.cs",
               "RelativeDocumentMoniker": "Notepad.DAL\\Repositories\\Interfaces\\Generics\\ICommandRepository.cs",
@@ -562,7 +685,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "NotepadDbContext.cs",
               "DocumentMoniker": "D:\\Projects\\Notepad\\Notepad.DAL\\Context\\NotepadDbContext.cs",
               "RelativeDocumentMoniker": "Notepad.DAL\\Context\\NotepadDbContext.cs",
@@ -572,10 +695,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T13:41:00.903Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             }
           ]
         },

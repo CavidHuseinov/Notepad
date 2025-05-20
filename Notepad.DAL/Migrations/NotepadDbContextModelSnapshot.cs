@@ -37,7 +37,7 @@ namespace Notepad.DAL.Migrations
                     b.Property<string>("NoteUrl")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Password")
+                    b.Property<string>("PasswordHash")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<bool>("SecureStatus")

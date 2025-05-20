@@ -10,4 +10,7 @@
     <ProjectReference Include="..\Notepad.Business\Notepad.Business.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+  </ItemGroup>
+
 </Project>

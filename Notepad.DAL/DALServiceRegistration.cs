@@ -17,7 +17,7 @@ namespace Notepad.DAL
         {
             services.AddDbContext<NotepadDbContext>(opt =>
             {
-                opt.UseSqlServer(config.GetConnectionString("env"));
+                opt.UseSqlServer(config.GetConnectionString("prod"));
             });
         }
         public static void AddDIRepository(this IServiceCollection services)

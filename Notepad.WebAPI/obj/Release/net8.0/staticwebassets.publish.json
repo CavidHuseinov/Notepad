@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "lWoPV2RDk/g7hFXnak18IcgtdRK7zhabZ9CKt8AHZFY=",
+  "Source": "Notepad.WebAPI",
+  "BasePath": "_content/Notepad.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

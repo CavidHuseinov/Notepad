@@ -7,5 +7,6 @@ namespace Notepad.Business.DTOs.Note
         public string? Content { get; set; }
         public bool SecureStatus {  get; set; }
         public string? Password { get; set; }
+
     }
 }
